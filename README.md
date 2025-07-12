@@ -7,6 +7,10 @@
 <a href="https://instagram.com/sneh_patel_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneh_patel_25" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/snehpatel25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="snehpatel25" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/snehpatel25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snehpatel25" height="30" width="40" /></a>
+  <a href="https://www.overleaf.com/read/jqmpdpzsktrt#bad767" target="blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="Resume" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
