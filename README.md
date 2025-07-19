@@ -1,5 +1,6 @@
 <h1 >Hi 👋, I'm Sneh Patel</h1>
 <h3>A passionate frontend developer</h3>
+<h4><a link='https://drive.google.com/file/d/1Ps51cqx_9JovyGVtD_Ncn4GGJqJ5AKGy/view?usp=drive_link'>Resume</a></h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
